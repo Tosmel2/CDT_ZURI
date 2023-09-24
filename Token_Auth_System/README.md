@@ -53,6 +53,9 @@ Your code must not break, and it should return meaningful error responses.
 9. Perform testing on all your endpoints using postman or Insomnia as shown in the following screenshort example
 
 
+### Endpoint url to get all users
+https://token-auth-bdu0.onrender.com/api/auth/users
+
 
 ### Screenshots Guide for Testing on Insomnia
 Testing the SIGNUP endpoint Operation on Insomnia
